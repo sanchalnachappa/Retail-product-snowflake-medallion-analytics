@@ -91,15 +91,6 @@ Snowflake Cortex Search
 
 Snowflake Cortex AI
 
-📂 Repository Structure
-├── Bronze/
-│   └── Raw product ingestion
-├── Silver/
-│   └── Cleaned & feature-engineered datasets
-├── Gold/
-│   └── Aggregated analytics & AI-ready tables
-└── TEAM_226_FINAL_PROJECT_TASKS.ipynb
-
 🚀 Why This Project Matters
 
 Mirrors real-world analytics engineering workflows
